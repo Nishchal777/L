@@ -90,7 +90,7 @@ echo "<script>alert('Invalid Details');</script>";
 <div class="form-group">
 <label>Password</label>
 <input class="form-control" type="password" name="password" required autocomplete="off"  />
-<p class="help-block"><a href="user-forgot-password.php">Forgot Password</a></p>
+<p class="help-block"><a href="user-forgot-password.php">Forgot your Password</a></p>
 </div>
 
  <!-- <div class="form-group">
